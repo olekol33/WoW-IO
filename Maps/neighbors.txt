@@ -1,0 +1,63 @@
+### Eastern Kingdoms
+
+Isle of Quel'Danas:
+Eversong Woods: Ghostlands
+Ghostlands: Eversong Woods
+Tirisfal Glades: Silverpine Forest, Western Plaguelands
+Western Plaguelands: Tirisfal Glades, Alterac Mountains, The Hinterlands, Eastern Plaguelands
+Eastern Plaguelands: Western Plaguelands
+Silverpine Forest: Tirisfal Glades, Hillsbrad Foothills, Alterac Mountains
+Alterac Mountains: Silverpine Forest, Hillsbrad Foothills, Western Plaguelands
+Hillsbrad Foothills: Silverpine Forest, Alterac Mountains, Arathi Highlands, The Hinterlands
+The Hinterlands: Western Plaguelands, Hillsbrad Foothills
+Arathi Highlands: Hillsbrad Foothills, Wetlands
+Dun Morogh: Loch Modan
+Wetlands: Loch Modan, Arathi Highlands
+Loch Modan: Dun Morogh, Wetlands, Badlands, Searing Gorge
+Searing Gorge: Burning Steppes, Loch Modan, Badlands
+Badlands: Loch Modan, Searing Gorge
+Elwynn Forest: Duskwood, Westfall, Redridge Mountains
+Burning Steppes: Redridge Mountains, Searing Gorge
+Redridge Mountains: Duskwood, Elwynn Forest, Burning Steppes
+Westfall: Duskwood, Elwynn Forest, Stranglethorn Vale
+Duskwood: Deadwind Pass, Stranglethorn Vale, Redridge Mountains, Westfall, Elwynn Forest
+Deadwind Pass: Duskwood, Swamp of Sorrows
+Swamp of Sorrows: Blasted Lands, Deadwind Pass
+Stranglethorn Vale: Duskwood, Westfall
+Blasted Lands: Swamp of Sorrows
+
+
+### Kalimdor
+
+Teldrassil:
+Bloodmyst Isle:
+Darkshore: Ashenvale, Moonglade, Felwood
+Moonglade: Darkshore, Felwood, Winterspring
+Winterspring: Felwood, Moonglade
+Azuremyst Isle:
+Felwood: Darkshore, Ashenvale, Moonglade, Winterspring
+Ashenvale: Darkshore, Felwood, Azshara, Stonetalon Mountains, The Barrens, Durotar
+Azshara: Ashenvale, The Barrens, Durotar
+Stonetalon Mountains: Ashenvale, The Barrens, Desolace
+The Barrens: Durotar, Azshara, Ashenvale, Stonetalon Mountains, Mulgore, Dustwallow Marsh, Thousand Needles
+Durotar: The Barrens, Ashenvale, Azshara
+Desolace: Feralas, Stonetalon Mountains
+Feralas: Desolace, Thousand Needles
+Mulgore: The Barrens
+Dustwallow Marsh: The Barrens
+Thousand Needles: The Barrens, Feralas, Tanaris
+Silithus: Ahn'Qiraj, Un'Goro Crater
+Un'Goro Crater: Silithus, Tanaris
+Tanaris: Un'Goro Crater, Thousand Needles
+Ahn'Qiraj: Silithus
+
+
+### Outland
+
+Blade's Edge Mountains: Netherstorm, Zangarmarsh
+Netherstorm: Blade's Edge Mountains
+Zangarmarsh: Blade's Edge Mountains, Hellfire Peninsula, Nagrand, Terokkar Forest
+Hellfire Peninsula: Zangarmarsh, Terokkar Forest
+Nagrand: Zangarmarsh, Terokkar Forest
+Terokkar Forest: Hellfire Peninsula, Zangarmarsh, Nagrand, Shadowmoon Valley
+Shadowmoon Valley: Terokkar Forest

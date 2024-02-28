@@ -1,0 +1,288 @@
+name,tl_x,tl_y,zone,type
+Shattrath City,172,126,Terokkar Forest,capital
+Silvermoon City,71,12,Eversong Woods,capital
+Orgrimmar,156,169,Durotar,capital
+Undercity,23,63,Tirisfal Glades,capital
+The Exodar,28,68,Azuremyst Isle,capital
+Thunder Bluff,85,203,Mulgore,capital
+Ironforge,44,170,Dun Morogh,capital
+Stormwind City,30,261,Elwynn Forest,capital
+Gnomeregan,52,182,Dun Morogh,capital
+Deadmines,22,319,Westfall,instance
+Blackfathom Deeps,103,135,Ashenvale,instance
+Ragefire Chasm,163,179,Durotar,instance
+Razorfen Downs,136,306,Thousand Needles,instance
+Razorfen Kraul,111,276,The Barrens,instance
+Shadowfang Keep,16,117,Silverpine Forest,instance
+Uldaman,93,241,Badlands,instance
+Zul'Farrak,173,342,Tanaris,instance
+Wailing Caverns,106,263,The Barrens,instance
+Naxxramas,136,50,Eastern Plaguelands,instance
+Onyxia's Lair,166,229,Dustwallow Marsh,instance
+The Temple of Atal'Hakkar,139,292,Swamp of Sorrows,instance
+Maraudon,58,222,Desolace,instance
+Scarlet Monastery,13,54,Tirisfal Glades,instance
+Blackrock Depths,106,254,Burning Steppes,instance
+Warsong Gulch,107,191,The Barrens,instance
+Ruins of Ahn'Qiraj,7,419,Ahn'Qiraj,instance
+Dire Maul,35,279,Feralas,instance
+Scholomance,71,59,Western Plaguelands,instance
+Stratholme,130,80,Eastern Plaguelands,instance
+Blackwing Lair,85,266,Burning Steppes,instance
+Blackrock Spire,111,256,Burning Steppes,instance
+Alterac Valley,56,141,Hillsbrad Foothills,instance
+Arathi Basin,112,122,Arathi Highlands,instance
+Molten Core,136,267,Burning Steppes,instance
+Zul'Gurub,62,341,Stranglethorn Vale,instance
+Old Hillsbrad Foothills,185,319,Tanaris,instance
+Karazhan,92,307,Deadwind Pass,instance
+Sunwell Plateau,14,33,Isle of Quel'Danas,instance
+Magisters' Terrace,12,32,Isle of Quel'Danas,instance
+The Blood Furnace,251,70,Hellfire Peninsula,instance
+Hellfire Ramparts,270,94,Hellfire Peninsula,instance
+Blade's Edge Arena,80,27,Blade's Edge Mountains,instance
+Serpentshrine Cavern,15,68,Zangarmarsh,instance
+Auchenai Crypts,192,141,Terokkar Forest,instance
+Black Temple,201,168,Shadowmoon Valley,instance
+Nagrand Arena,22,174,Nagrand,instance
+The Arcatraz,267,12,Netherstorm,instance
+Sethekk Halls,173,183,Terokkar Forest,instance
+Magtheridon's Lair,296,64,Hellfire Peninsula,instance
+Eye of the Storm,156,9,Netherstorm,instance
+The Underbog,120,108,Zangarmarsh,instance
+Gruul's Lair,103,8,Blade's Edge Mountains,instance
+The Botanica,193,43,Netherstorm,instance
+The Shattered Halls,222,88,Hellfire Peninsula,instance
+Steamvault,15,85,Zangarmarsh,instance
+The Steamvault,46,119,Zangarmarsh,instance
+The Mechanar,298,10,Netherstorm,instance
+Auchindoun: Shadow Labyrinth,194,180,Terokkar Forest,instance
+Mana-Tombs,152,127,Terokkar Forest,instance
+Coilfang: The Slave Pens,58,100,Zangarmarsh,instance
+Hyjal,185,91,Felwood,instance
+Tempest Keep,178,7,Netherstorm,instance
+NO NAME,61,28,Teldrassil,capital
+NO NAME,50,34,Teldrassil,major city
+NO NAME,10,13,Teldrassil,major city
+NO NAME,9,5,Teldrassil,minor city
+NO NAME,31,40,Bloodmyst Isle,minor city
+NO NAME,88,14,Moonglade,capital
+NO NAME,170,18,Winterspring,capital
+NO NAME,115,38,Winterspring,major city
+NO NAME,143,27,Winterspring,major city
+NO NAME,179,29,Winterspring,minor city
+NO NAME,16,61,Azuremyst Isle,minor city
+NO NAME,39,71,Azuremyst Isle,minor city
+NO NAME,6,90,Azuremyst Isle,minor city
+NO NAME,74,68,Darkshore,capital
+NO NAME,62,72,Darkshore,major city
+NO NAME,156,87,Felwood,minor city
+NO NAME,119,75,Felwood,minor city
+NO NAME,185,77,Felwood,minor city
+NO NAME,163,87,Felwood,minor city
+NO NAME,157,80,Felwood,minor city
+NO NAME,162,61,Felwood,minor city
+NO NAME,128,89,Felwood,minor city
+NO NAME,146,68,Felwood,minor city
+NO NAME,16,108,Ashenvale,capital
+NO NAME,106,127,Ashenvale,major city
+NO NAME,68,135,Ashenvale,major city
+NO NAME,56,131,Ashenvale,major city
+NO NAME,103,108,Ashenvale,major city
+NO NAME,134,119,Azshara,minor city
+NO NAME,138,134,Azshara,minor city
+NO NAME,28,162,Stonetalon Mountains,major city
+NO NAME,29,160,Stonetalon Mountains,major city
+NO NAME,29,140,Stonetalon Mountains,major city
+NO NAME,5,145,Stonetalon Mountains,major city
+NO NAME,95,140,Stonetalon Mountains,minor city
+NO NAME,125,280,The Barrens,major city
+NO NAME,150,261,The Barrens,major city
+NO NAME,103,270,The Barrens,major city
+NO NAME,106,196,The Barrens,major city
+NO NAME,111,167,The Barrens,major city
+NO NAME,113,213,The Barrens,major city
+NO NAME,100,201,The Barrens,minor city
+NO NAME,105,172,The Barrens,minor city
+NO NAME,141,149,The Barrens,minor city
+NO NAME,182,178,Durotar,major city
+NO NAME,175,179,Durotar,major city
+NO NAME,165,187,Durotar,minor city
+NO NAME,175,162,Durotar,minor city
+NO NAME,22,233,Desolace,capital
+NO NAME,20,234,Desolace,major city
+NO NAME,57,233,Desolace,major city
+NO NAME,41,204,Desolace,major city
+NO NAME,57,201,Desolace,major city
+NO NAME,27,202,Desolace,major city
+NO NAME,44,206,Desolace,minor city
+NO NAME,48,211,Desolace,minor city
+NO NAME,35,198,Desolace,minor city
+NO NAME,8,301,Feralas,capital
+NO NAME,35,250,Feralas,major city
+NO NAME,12,283,Feralas,major city
+NO NAME,52,310,Feralas,major city
+NO NAME,89,273,Mulgore,major city
+NO NAME,91,267,Mulgore,minor city
+NO NAME,78,216,Mulgore,minor city
+NO NAME,71,252,Mulgore,minor city
+NO NAME,74,199,Mulgore,minor city
+NO NAME,155,259,Dustwallow Marsh,capital
+NO NAME,167,244,Dustwallow Marsh,major city
+NO NAME,160,234,Dustwallow Marsh,major city
+NO NAME,165,209,Dustwallow Marsh,minor city
+NO NAME,117,294,Thousand Needles,major city
+NO NAME,179,307,Thousand Needles,major city
+NO NAME,87,309,Thousand Needles,major city
+NO NAME,111,310,Thousand Needles,major city
+NO NAME,125,302,Thousand Needles,minor city
+NO NAME,183,283,Thousand Needles,minor city
+NO NAME,3,349,Silithus,major city
+NO NAME,5,367,Silithus,minor city
+NO NAME,44,355,Silithus,minor city
+NO NAME,66,409,Un'Goro Crater,minor city
+NO NAME,180,403,Tanaris,capital
+NO NAME,168,416,Tanaris,capital
+NO NAME,133,343,Tanaris,major city
+NO NAME,120,351,Tanaris,major city
+NO NAME,178,337,Tanaris,major city
+NO NAME,159,400,Tanaris,minor city
+NO NAME,164,345,Tanaris,minor city
+NO NAME,8,388,Ahn'Qiraj,major city
+NO NAME,0,27,Isle of Quel'Danas,capital
+NO NAME,3,25,Isle of Quel'Danas,major city
+NO NAME,18,2,Isle of Quel'Danas,major city
+NO NAME,5,16,Isle of Quel'Danas,minor city
+NO NAME,38,34,Eversong Woods,major city
+NO NAME,68,15,Eversong Woods,major city
+NO NAME,35,32,Eversong Woods,major city
+NO NAME,66,14,Eversong Woods,major city
+NO NAME,38,23,Eversong Woods,minor city
+NO NAME,29,35,Eversong Woods,minor city
+NO NAME,28,12,Eversong Woods,minor city
+NO NAME,47,10,Eversong Woods,minor city
+NO NAME,46,8,Eversong Woods,minor city
+NO NAME,39,22,Eversong Woods,minor city
+NO NAME,78,17,Eversong Woods,minor city
+NO NAME,106,26,Ghostlands,minor city
+NO NAME,90,22,Ghostlands,minor city
+NO NAME,2,41,Tirisfal Glades,major city
+NO NAME,39,60,Tirisfal Glades,major city
+NO NAME,9,57,Tirisfal Glades,major city
+NO NAME,24,57,Tirisfal Glades,major city
+NO NAME,6,58,Tirisfal Glades,minor city
+NO NAME,20,55,Tirisfal Glades,minor city
+NO NAME,6,67,Tirisfal Glades,minor city
+NO NAME,28,39,Tirisfal Glades,minor city
+NO NAME,32,61,Tirisfal Glades,minor city
+NO NAME,40,56,Tirisfal Glades,minor city
+NO NAME,16,70,Tirisfal Glades,minor city
+NO NAME,52,73,Western Plaguelands,capital
+NO NAME,73,59,Western Plaguelands,major city
+NO NAME,71,71,Western Plaguelands,major city
+NO NAME,83,64,Eastern Plaguelands,capital
+NO NAME,134,76,Eastern Plaguelands,major city
+NO NAME,89,62,Eastern Plaguelands,major city
+NO NAME,144,47,Eastern Plaguelands,minor city
+NO NAME,115,78,Eastern Plaguelands,minor city
+NO NAME,98,57,Eastern Plaguelands,minor city
+NO NAME,103,82,Eastern Plaguelands,minor city
+NO NAME,21,90,Silverpine Forest,major city
+NO NAME,27,137,Silverpine Forest,major city
+NO NAME,33,133,Silverpine Forest,major city
+NO NAME,50,86,Alterac Mountains,capital
+NO NAME,53,86,Alterac Mountains,major city
+NO NAME,43,91,Alterac Mountains,major city
+NO NAME,49,96,Alterac Mountains,minor city
+NO NAME,50,83,Alterac Mountains,minor city
+NO NAME,61,95,Alterac Mountains,minor city
+NO NAME,60,140,Hillsbrad Foothills,capital
+NO NAME,49,136,Hillsbrad Foothills,major city
+NO NAME,44,128,Hillsbrad Foothills,major city
+NO NAME,63,146,Hillsbrad Foothills,major city
+NO NAME,124,94,The Hinterlands,capital
+NO NAME,95,121,Arathi Highlands,major city
+NO NAME,75,139,Arathi Highlands,major city
+NO NAME,51,211,Dun Morogh,major city
+NO NAME,44,218,Dun Morogh,major city
+NO NAME,56,169,Dun Morogh,major city
+NO NAME,104,168,Wetlands,capital
+NO NAME,121,186,Loch Modan,major city
+NO NAME,34,245,Searing Gorge,capital
+NO NAME,38,241,Searing Gorge,major city
+NO NAME,144,239,Badlands,major city
+NO NAME,25,251,Elwynn Forest,major city
+NO NAME,15,262,Elwynn Forest,major city
+NO NAME,56,266,Elwynn Forest,minor city
+NO NAME,69,267,Elwynn Forest,minor city
+NO NAME,1,258,Elwynn Forest,minor city
+NO NAME,122,268,Burning Steppes,capital
+NO NAME,83,263,Burning Steppes,major city
+NO NAME,110,249,Burning Steppes,major city
+NO NAME,80,258,Burning Steppes,minor city
+NO NAME,130,256,Burning Steppes,minor city
+NO NAME,104,285,Redridge Mountains,capital
+NO NAME,89,286,Redridge Mountains,major city
+NO NAME,100,285,Redridge Mountains,minor city
+NO NAME,31,293,Westfall,major city
+NO NAME,22,307,Westfall,minor city
+NO NAME,18,303,Westfall,minor city
+NO NAME,82,293,Duskwood,capital
+NO NAME,61,321,Duskwood,major city
+NO NAME,76,320,Duskwood,major city
+NO NAME,90,297,Deadwind Pass,major city
+NO NAME,124,317,Swamp of Sorrows,capital
+NO NAME,130,300,Swamp of Sorrows,major city
+NO NAME,132,299,Swamp of Sorrows,major city
+NO NAME,81,331,Stranglethorn Vale,capital
+NO NAME,63,350,Stranglethorn Vale,major city
+NO NAME,7,358,Stranglethorn Vale,major city
+NO NAME,0,328,Stranglethorn Vale,major city
+NO NAME,58,336,Stranglethorn Vale,major city
+NO NAME,19,326,Stranglethorn Vale,major city
+NO NAME,125,347,Blasted Lands,major city
+NO NAME,108,347,Blasted Lands,major city
+NO NAME,74,0,Blade's Edge Mountains,capital
+NO NAME,68,51,Blade's Edge Mountains,major city
+NO NAME,139,14,Blade's Edge Mountains,major city
+NO NAME,117,41,Blade's Edge Mountains,major city
+NO NAME,128,30,Blade's Edge Mountains,minor city
+NO NAME,9,39,Blade's Edge Mountains,minor city
+NO NAME,124,44,Blade's Edge Mountains,minor city
+NO NAME,129,43,Blade's Edge Mountains,minor city
+NO NAME,276,21,Netherstorm,capital
+NO NAME,258,42,Netherstorm,major city
+NO NAME,266,14,Netherstorm,major city
+NO NAME,163,18,Netherstorm,major city
+NO NAME,181,44,Netherstorm,minor city
+NO NAME,109,106,Zangarmarsh,capital
+NO NAME,15,106,Zangarmarsh,major city
+NO NAME,64,54,Zangarmarsh,major city
+NO NAME,38,117,Zangarmarsh,major city
+NO NAME,110,64,Zangarmarsh,major city
+NO NAME,130,80,Zangarmarsh,major city
+NO NAME,262,95,Hellfire Peninsula,capital
+NO NAME,280,115,Hellfire Peninsula,major city
+NO NAME,291,84,Hellfire Peninsula,major city
+NO NAME,143,54,Hellfire Peninsula,major city
+NO NAME,152,93,Hellfire Peninsula,major city
+NO NAME,264,98,Hellfire Peninsula,major city
+NO NAME,222,110,Hellfire Peninsula,minor city
+NO NAME,219,81,Hellfire Peninsula,minor city
+NO NAME,114,147,Nagrand,capital
+NO NAME,12,132,Nagrand,major city
+NO NAME,101,172,Nagrand,major city
+NO NAME,46,136,Nagrand,major city
+NO NAME,20,151,Nagrand,minor city
+NO NAME,32,123,Nagrand,minor city
+NO NAME,3,160,Nagrand,minor city
+NO NAME,98,152,Nagrand,minor city
+NO NAME,176,157,Terokkar Forest,major city
+NO NAME,163,173,Terokkar Forest,major city
+NO NAME,125,147,Terokkar Forest,major city
+NO NAME,151,136,Terokkar Forest,major city
+NO NAME,201,178,Shadowmoon Valley,capital
+NO NAME,288,125,Shadowmoon Valley,major city
+NO NAME,292,172,Shadowmoon Valley,major city
+NO NAME,200,139,Shadowmoon Valley,major city
+NO NAME,283,125,Shadowmoon Valley,major city

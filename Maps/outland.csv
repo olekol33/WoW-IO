@@ -1,0 +1,10 @@
+name,tl_x,tl_y,br_x,br_y,capitals,major cities,minor cities
+Blade's Edge Mountains,0,0,156,53,1,3,4
+Netherstorm,156,0,300,53,1,3,1
+,,,,,,,
+Zangarmarsh,0,53,143,120,1,5,0
+Hellfire Peninsula,143,53,300,120,1,5,2
+,,,,,,,
+Nagrand,0,120,125,187,1,3,4
+Terokkar Forest,125,120,200,187,1,4,0
+Shadowmoon Valley,200,120,300,187,1,4,0
