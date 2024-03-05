@@ -5,15 +5,6 @@ Workload traces play a crucial role in the design and evaluation of storage syst
 WoW-IO is an open-source object trace generator based on the popular video game `World of Warcraft'. WoW-IO uses, as input, logs of in-game avatar information from the game's servers. 
 Refer to "WoW-IO: a Gaming-Based Storage Trace Generator for Edge Computing" for the description of the principles and assumptions used in the design of WoW-IO, how the generated traces can be used to evaluate various aspects of an edge storage-system design, and how the trace format can be extended to reflect additional details and complex usage scenarios.
 
-## Table of Contents
-
-- [Project Usage and Information](#Project Usage and Information)
-  - [Project Structure](#Project Structure)
-  - [Raw Dataset](#Raw Dataset)
-  - [External Documentation](#External Documentation)
-- [Trace Samples](#Trace Samples)
-- [Citing WoW-IO](#Citing WoW-IO)
-
 ## Project Usage and Information
 
 ### Project Structure
@@ -40,11 +31,11 @@ To generate traces with WoW-IO, first download the WoWAH dataset.
 See the [External Documentation PDF](https://github.com/olekol33/WoW-IO/blob/main/External%20Documentation.pdf) for the complete usage information.
 
 ## Trace Samples
-The 'IOs' folder contains the WoW-IO-generated traces, formatted as `scene{N}_{t1}-{t2}.txt`, where 'N' represents the trace number, and 't1' and 't2' denote the start and end times of the file in seconds, respectively. Each complete trace, or 'scene', comprises several 10-minute trace files. Specifically, `IOs/Scene4` encompasses a 60-minute trace (six files), along with a 1-second preview (one file). In the related paper, what is referred to here as 'scene 4' was labeled as 'scene 1'.
+The `IOs` folder contains the WoW-IO-generated traces, formatted as `scene{N}_{t1}-{t2}.txt`, where 'N' represents the trace number, and 't1' and 't2' denote the start and end times of the file in seconds, respectively. Each complete trace, or 'scene', comprises several 10-minute trace files. Specifically, `IOs/Scene4` encompasses a 60-minute trace (six files), along with a 1-second preview (one file). In the related paper, what is referred to here as 'scene 4' was labeled as 'scene 1'.
 
 ## Citing WoW-IO
 To cite this repository:
-
+```
 @inproceedings{WoW-IO,
   title={{WoW-IO}: a Gaming-Based Storage Trace Generator for Edge Computing},
   author={Kolosov, Oleg and Herman, Tom and Zohar, Ido and Yadgar, Gala},
@@ -52,3 +43,4 @@ To cite this repository:
   year={2024},
   organization={IEEE}
 }
+```
